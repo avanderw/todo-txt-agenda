@@ -125,6 +125,7 @@ func parseTask(taskLine string, filePath string) (Task, error) {
 	for _, part := range parts {
 		if strings.HasPrefix(part, "due:") {
 			dueDateStr := strings.TrimPrefix(part, "due:")
+			dueDateStr = strings.Split(dueDateStr, "R")[0]
 			dueDate, err := parseDueDate(dueDateStr)
 			if err != nil {
 				return Task{}, err
