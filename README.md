@@ -1,10 +1,10 @@
 # Todo.txt agenda view
 
-This is a simple script to generate an agenda view from todo.txt files.
-It will read all files listed in the file passed into the first argument `TODO_FILES`.
-It will look for due: tags and sort them by date.
+This is a simple script to generate an agenda view from multiple todo.txt files.
+It will read all files listed in the file passed into the first argument.
+It will look for `due:` tags and sort them by date.
 
-The todos will then be presented in the following format: 
+The todos will then be presented in the following format:
 
 ```text
 Weekly Agenda
