@@ -1,0 +1,12 @@
+~/org/capitec.todo.txt
+~/org/code.todo.txt
+~/org/inbox.todo.txt
+~/org/private.todo.txt
+~/code/autohotkey/todo.txt
+~/code/bookmarks/todo.txt
+~/code/dashboard/todo.txt
+~/code/git-templates/.todo/todo.txt
+~/code/skill-tracker/.todo/todo.txt
+~/code/skill-tracker/todo.txt
+~/code/spyfall/docs/todo.txt
+~/code/todo-txt/todo.txt
